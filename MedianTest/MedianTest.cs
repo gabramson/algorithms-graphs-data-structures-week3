@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Median;
 
 namespace MedianTest
 {
@@ -6,8 +7,11 @@ namespace MedianTest
     public class MedianTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMedianMaintainer()
         {
+            MedianMaintainer medianMaintainer = new MedianMaintainer();
+            medianMaintainer.Add(10);
+            Assert.AreEqual(10, medianMaintainer.GetRollingSum());
         }
     }
 }
