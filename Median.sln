@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median", "Median\Median.csproj", "{23E7EF11-3A46-4E3E-A840-F6775D0C73DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianTest", "MedianTest\MedianTest.csproj", "{21C2223D-C121-4460-B268-DCF3E62B7B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E7EF11-3A46-4E3E-A840-F6775D0C73DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E7EF11-3A46-4E3E-A840-F6775D0C73DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E7EF11-3A46-4E3E-A840-F6775D0C73DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E7EF11-3A46-4E3E-A840-F6775D0C73DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C2223D-C121-4460-B268-DCF3E62B7B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C2223D-C121-4460-B268-DCF3E62B7B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C2223D-C121-4460-B268-DCF3E62B7B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C2223D-C121-4460-B268-DCF3E62B7B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA7E964-EE72-4D8F-A71A-6FE360031469}
+	EndGlobalSection
+EndGlobal

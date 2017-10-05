@@ -1,0 +1,11 @@
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\bin\Debug\netcoreapp2.0\Median.deps.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\bin\Debug\netcoreapp2.0\Median.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\bin\Debug\netcoreapp2.0\Median.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\bin\Debug\netcoreapp2.0\Median.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\bin\Debug\netcoreapp2.0\Median.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\obj\Debug\netcoreapp2.0\Median.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\obj\Debug\netcoreapp2.0\Median.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\obj\Debug\netcoreapp2.0\Median.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\obj\Debug\netcoreapp2.0\Median.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\obj\Debug\netcoreapp2.0\Median.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\Median\obj\Debug\netcoreapp2.0\Median.pdb

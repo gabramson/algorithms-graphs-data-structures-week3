@@ -1,0 +1,16 @@
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\MedianTest.deps.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\MedianTest.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\MedianTest.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\MedianTest.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\MedianTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\obj\Debug\netcoreapp2.0\MedianTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\obj\Debug\netcoreapp2.0\MedianTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\obj\Debug\netcoreapp2.0\MedianTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\obj\Debug\netcoreapp2.0\MedianTest.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\obj\Debug\netcoreapp2.0\MedianTest.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\obj\Debug\netcoreapp2.0\MedianTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\Median.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week3\MedianTest\bin\Debug\netcoreapp2.0\Median.pdb
