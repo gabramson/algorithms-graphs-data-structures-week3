@@ -8,6 +8,7 @@ namespace Median
     {
         private List<(int key, valueType value)> heapList;
         public int Count{ private set;  get; }
+        public (int, valueType) First { get { return heapList[0]; } }
 
         protected Heap()
         {
@@ -82,4 +83,5 @@ namespace Median
         }
 
     }
+
 }

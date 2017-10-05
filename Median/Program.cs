@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Median
 {
@@ -6,7 +7,17 @@ namespace Median
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MedianMaintainer medianMaintainer = new MedianMaintainer();
+            string line;
+            using (StreamReader srStreamRdr = new StreamReader(@"Median.txt"))
+            {
+                while ((line = srStreamRdr.ReadLine()) != null)
+                {
+                    medianMaintainer.Add(int.Parse(line));
+                }
+            }
+            Console.WriteLine(medianMaintainer.RollingSum);
+            Console.ReadKey();
         }
-    }
+     }
 }
